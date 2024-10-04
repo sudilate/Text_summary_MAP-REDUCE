@@ -1,0 +1,8 @@
+langchain
+langchain_community
+openai
+ipykernel
+tiktoken
+unstructured
+pdfminer
+PyPDF2
